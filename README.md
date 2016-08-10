@@ -21,10 +21,12 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 * edit users.js with switch for action and state
 * reducers/index.js import users.js
 
-
-
-
 50 - Static Users Action Creator 2:15  
+
+* purpose: retrun a default list of users (hardcoded)
+* edit action/index.js
+* add default user list
+
 
 51 - Rendering a List of Users 7:32  
 

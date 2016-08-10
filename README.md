@@ -10,10 +10,16 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 
 48 - App Building Plan 3:50  
 
-* Chart out app plan
-* 
+* Chart out app plan from Component diagram
+* Ajax list of users, show a badge/card for each with name/company and email button
+* Build app with dummy data -> Replace dummy data with ajax -> Middleware to fetch data
+
 
 49 - Users Reducer 4:14  
+* create new reducers/users.js file
+* create new actions/types.js file for FETCH_USERS
+
+
 
 50 - Static Users Action Creator 2:15  
 

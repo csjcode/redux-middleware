@@ -27,8 +27,15 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 * edit action/index.js
 * add default user list
 
-
 51 - Rendering a List of Users 7:32  
+
+* new component - user_list.js
+* edit user_list - this will be a redux container, import connect
+* renderUser helper method, map over it in render
+* import action creators and wire up as props
+* in UserList import * as actions & use componentWillMount
+
+
 
 52 - CSS Cleanup 4:20  
 

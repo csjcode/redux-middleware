@@ -6,9 +6,12 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 * Install ReduxSimpleStarter
 * npm install --save react-router
 * Redux with Middleware flowchart
-
+* React -> Action Creator -> Action -> Middleware -> Reducers -> State -> React
 
 48 - App Building Plan 3:50  
+
+* Chart out app plan
+* 
 
 49 - Users Reducer 4:14  
 

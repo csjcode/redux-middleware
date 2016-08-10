@@ -19,6 +19,8 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 * create new reducers/users.js file
 * create new actions/types.js file for FETCH_USERS
 * edit users.js with switch for action and state
+* reducers/index.js import users.js
+
 
 
 

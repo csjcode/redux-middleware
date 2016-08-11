@@ -63,6 +63,8 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 
 57 - Handling Promises 8:05  
 
-*
+* Make sure the actions promise resolves
+* if it resolves use dispatch to go through middleware stack again (but with promise.response, which will then skip the promise section)
+
 
 58 - Middleware Review 6:50

@@ -35,11 +35,15 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 * import action creators and wire up as props
 * in UserList import * as actions & use componentWillMount
 
-
-
 52 - CSS Cleanup 4:20  
 
 53 - Pains Without Middleware 7:15  
+
+* install axios
+* update actions/index.js
+* check why screen goes blank (with debugger)
+* needs promise
+
 
 54 - Middleware Stack 4:43  
 

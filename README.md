@@ -44,10 +44,16 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 * check why screen goes blank (with debugger)
 * needs promise
 
-
 54 - Middleware Stack 4:43  
+* removed debugger
+* Chart of Middleware stack: action -> Middleware #1 (don't care, NEXT) -> Middleware #2 -> Middleware #3 -> Reducers
+*
 
-55 - Middleware Internals 7:55  
+55 - Middleware Internals 7:55
+
+* create middlewares dir.
+* make src\middlewares\async.js
+* edit src/index.js
 
 56 - Handling Unrelated Actions 5:17  
 

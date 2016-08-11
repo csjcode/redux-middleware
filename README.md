@@ -68,3 +68,6 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 
 
 58 - Middleware Review 6:50
+
+* Output payload to console (5.58)
+* Change action.payload in Users reducer to action.payload.data

@@ -59,6 +59,10 @@ Experiments with React Redux Middleware, from Udemy Advanced React course
 
 * Diagram - Does action contain promise? if No, send to NEXT -> Reducers... if Yes, sit until resolved -> resolved, create new action and go through middleware again with full payload/
 
+* edit async with if - for console log if we have a promise
+
 57 - Handling Promises 8:05  
+
+*
 
 58 - Middleware Review 6:50
